@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Boukar"
+    given-names: "Baimam Jean Jacques"
+    email: "bbaimamb@andrew.cmu.edu"
+    affiliation: "Carnegie Mellon University Africa"
+  - family-names: "Mugengano"
+    given-names: "Alice"
+    email: "amugengano@andrew.cmu.edu"
+    affiliation: "Carnegie Mellon University Africa"
+  - family-names: "Kayizzi"
+    given-names: "Jonathan"
+    email: "jkayizzi@andrew.cmu.edu"
+    affiliation: "Carnegie Mellon University Africa"
+title: "Humidity Inference with Geographic Features and Machine Learning for Enhanced Contrail Prediction for African Airspace"
+version: 1.0
+date-released: "2025-04-30"
+url: "https://github.com/JonahKayizzi/Environment-Impact-Assessment-of-Aircraft-Contrails"
