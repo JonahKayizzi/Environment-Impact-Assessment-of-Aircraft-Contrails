@@ -1,0 +1,26 @@
+contrail-environmental-impact/
+├── data/
+│   ├── contrail_predictions_synthetic.csv
+│   ├── tile_40N_0E_synthetic_points_with_RHi_updated.csv
+│   └── eda_plots/
+│       ├── contrail_distributions.png
+│       ├── contrail_temporal_patterns.png
+│       ├── rf_relationships.png
+│       ├── flight_trajectory_map.png
+│       ├── 3d_scatter.png
+│       ├── correlation_heatmap.png
+│       ├── rf_time_series.png
+│       ├── pair_plot.png
+│       ├── violin_plot.png
+│       ├── indices_relationship.png
+│       ├── boxplot_indices.png
+│       └── kde_indices.png
+├── scripts/
+│   ├── eda_contrail_data_enhanced.py
+│   ├── eda_contrail_environmental.py
+│   └── process_synthetic_points.py
+├── README.md
+├── CITATION.cff
+├── LICENSE
+├── requirements.txt
+└── .gitignore
